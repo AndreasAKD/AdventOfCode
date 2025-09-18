@@ -65,6 +65,7 @@ namespace AdventOfCode.Years._2015
                     y1 = int.Parse(start[1]);
                     x2 = int.Parse(end[0]);
                     y2 = int.Parse(end[1]);
+
                 }
 
                 // Step 5: Apply the action to the grid
