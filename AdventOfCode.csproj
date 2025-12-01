@@ -11,4 +11,9 @@
     <PackageReference Include="System.Drawing.Common" Version="9.0.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Inputs\2025\" />
+    <Folder Include="Puzzles\2025\" />
+  </ItemGroup>
+
 </Project>
