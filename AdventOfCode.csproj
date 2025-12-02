@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Inputs\2025\" />
     <Folder Include="Puzzles\2025\" />
   </ItemGroup>
 
